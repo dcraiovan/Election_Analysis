@@ -23,5 +23,5 @@ As summarized in the table above:
 ## Summary 
 This PyPoll.py script can be used in future elections by:
 
-* changing the input file with up to date data we can analyse different counties electoral distribution
-*
+* changing the input file with up to date data. This would allow us to analyse different counties/candidates electoral distribution
+* adding other mathematical analysis (forcasting for exemple), would allow us to help the candidate's focus into one specific county. 
